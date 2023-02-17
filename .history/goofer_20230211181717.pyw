@@ -28,7 +28,7 @@ list=[
 
 def on_closing():
     sound.play()
-    top= Toplevel() 
+    top= Toplevel()
     top.wm_attributes("-topmost", 1)
     top.configure(bg='white')
     x = randint(10,900)
