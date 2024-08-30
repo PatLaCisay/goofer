@@ -16,7 +16,7 @@ I created it to prank my teammates whenever they don't lock their PCs !
 
 This litle programm is **harmless** for the computer and has only been created for fun purposes.
 
-## Dependancies
+## Dependencies
 
 pygame
 tkinter
@@ -28,7 +28,7 @@ PIL
 
 In order to create the .exe file execute the following command
 
-`$ pyInstaller --one-file goofer.pyw `
+`$ pyInstaller --onefile goofer.pyw `
 
 Then copy/paste the assets (musics and pic) to the dist folder that has been generated.
 
